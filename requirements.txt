@@ -1,0 +1,32 @@
+
+# Core Data Processing
+numpy
+pandas
+scipy
+pyarrow
+
+# Deep Learning Frameworks
+torch
+tensorflow
+
+# Transformer Models and NLP
+transformers==4.45.0
+datasets==2.20.0
+sentence-transformers
+sentencepiece
+accelerate
+protobuf
+
+# Machine Learning
+scikit-learn
+xgboost
+iterative-stratification
+scikit-multilearn
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+kagglehub
